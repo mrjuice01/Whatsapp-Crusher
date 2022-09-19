@@ -1,16 +1,15 @@
 # Whatsapp-Crusher
-Crush anyone's WhatsApp with Virus Made by Mr Juice
-# WhatsApp Bann Master
-# This is a Tool used to Bann whatsapp Accounts
-This script was created by Mr Juice and Without Contributors😂 Dont Worry I work Alone
+# Crush anyone's WhatsApp with Virus Made by Mr Juice
+# This is a Tool used to Crush whatsapp With Virus
+# This script was created by Mr Juice and Without Contributors😂 Dont Worry I work Alone
 
-Too bad That I wont give Comants On How To use it Unless You Follow All my Accounts 
+# Too bad That I wont give Comants On How To use it Unless You Follow All my Accounts 
 
 ## <!-- Typing SVG -->
 <p align="center">
     <a href="https://github.com/47hxl-53r">
         <img
-src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=WhatsApp+Banning+tool+by+Mr+Juice"
+src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=WhatsApp+Crushing+tool+by+Mr+Juice"
             alt="Typing SVG"
         />
     </a>
@@ -42,8 +41,9 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=WhatsApp+B
      </br>  
      
 
-# WhatsApp Bann Master
-![Screenshot_20220919-235623-1](https://user-images.githubusercontent.com/100421286/191132642-dc983e0a-0166-4ae8-a33d-dbbad6758193.jpg)
+# WhatsApp Crusher
+![Screenshot_20220920-012901-1](https://user-images.githubusercontent.com/100421286/191136853-c47df121-5756-4815-83b3-18bf551c6186.jpg)
+
 
 # Tutorials Video
 Click [here](https://m.youtube.com/channel/UCK29cXcpU7LKQCldqOsPzgg) for Video
